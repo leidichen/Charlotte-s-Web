@@ -186,7 +186,7 @@ She was still thinking about the pig when the teacher said:"Fern, what is the ca
 
 "Wilbur," replied Fern, dreamily. The pupils giggled. Fern blushed.
 
-“魏二波！”阿芬出神地回答。同学们咯咯咯地笑起来。阿芬的脸红了。
+“魏二波。”阿芬出神地回答。同学们咯咯咯地笑起来。阿芬的脸红了。
 
 
 
