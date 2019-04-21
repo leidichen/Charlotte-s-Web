@@ -1,6 +1,6 @@
 # 01 Before Breakfast \| 早餐前
 
-![](https://ws1.sinaimg.cn/large/006jCPBrly1g1zv7hkm6nj30hs09w0t5.jpg)
+![](https://ws1.sinaimg.cn/large/006jCPBrly1g2aarg99mnj30sg0g0dhf.jpg)
 
 "Where's Papa going with the ax?" said Fern to her mother asthey were setting the table for breakfast.
 
