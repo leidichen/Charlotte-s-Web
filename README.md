@@ -50,7 +50,7 @@
 * [将VScode设为git的默认编辑器 - 一朵蘑菇的疯言疯语 - CSDN博客](https://blog.csdn.net/baidu_29198395/article/details/82927700)
 * [github：Git 常用指令 - linwh8的博客 - CSDN博客](https://blog.csdn.net/linwh8/article/details/79779364)
 
-于是，就有了现在这个开源的电子书项目。
+于是，就有了现在这个开源电子书项目。
 
 平时写作会有拖延症，但是有了这个开源项目以后，会在大脑产生一个完整作业流程，逐步推进，直到完成目标。
 
