@@ -1,7 +1,5 @@
 # 03  Escape \| 逃跑
 
-![Snipaste_2019-05-07_14-19-53.png](https://ws1.sinaimg.cn/large/006jCPBrly1g2sqc19hx7j30n20euws6.jpg)
-
 The barn was very large. It was very old. It smelled of hay and it smelled of manure. It smelled of the perspiration of tired horses and the wonderful sweet breath of patient cows. It often had a sort of peaceful smell -- as though noghing bad could happen ever again in the world. 
 
 谷仓虽显陈旧，倒也宽敞。干草和牛粪的味道，混杂着马的汗味及母牛身上甜蜜的芳香。空气透着平和，好像世界从此没有了烦恼。

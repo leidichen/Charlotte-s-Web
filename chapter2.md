@@ -1,7 +1,5 @@
 # 02  Wilbur \| 魏二波
 
-![](https://ws1.sinaimg.cn/large/006jCPBrly1g2a9pj53byj30sg0g0tax.jpg)
-
 Fern loved Wilbur more than anything. She loved to stroke him, to feed him, to put him to bed.
 
 魏二波成了阿芬的最爱。每天抚摸他，喂他，哄他睡觉。
