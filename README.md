@@ -1,4 +1,4 @@
-# 前言
+## 前言
 
 [![WeChat](https://img.shields.io/badge/WeChat-冷板凳小组-orange.svg?logo=wechat)](https://img-1259210397.cos.ap-guangzhou.myqcloud.com/qrcode_for_gh_e6abc955318b_430.jpg) [![Weibo](https://img.shields.io/badge/WeiBo-SINA-red.svg?&logo=sina-weibo&logoColor=E6162D)](https://weibo.com/5786802205/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1) [![zhihu](https://img.shields.io/badge/ZhiHu-专栏-important.svg?&logo=zhihu&logoColor=ffffff&colorA=0084FF)](https://zhuanlan.zhihu.com/lengbandeng) [![blog](https://img.shields.io/badge/blog-诗-lightgrey.svg?&logo=hexo&logoColor=ffffff&colorA=2b2b2b)](https://leidichen.github.io/)
 
@@ -30,7 +30,6 @@
 
 从此世界为你打开了一扇门！
 
-----
 
 ## **关联**
 
