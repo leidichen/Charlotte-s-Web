@@ -1,6 +1,6 @@
 ## 前言
 
-[![WeChat](https://img.shields.io/badge/WeChat-冷板凳小组-orange.svg?logo=wechat)](https://img-1259210397.cos.ap-guangzhou.myqcloud.com/qrcode_for_gh_e6abc955318b_430.jpg) [![Weibo](https://img.shields.io/badge/WeiBo-SINA-red.svg?&logo=sina-weibo&logoColor=E6162D)](https://weibo.com/5786802205/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1) [![zhihu](https://img.shields.io/badge/ZhiHu-专栏-important.svg?&logo=zhihu&logoColor=ffffff&colorA=0084FF)](https://zhuanlan.zhihu.com/lengbandeng) [![blog](https://img.shields.io/badge/blog-诗-lightgrey.svg?&logo=hexo&logoColor=ffffff&colorA=2b2b2b)](https://leidichen.github.io/)
+[![WeChat](https://img.shields.io/badge/WeChat-冷板凳小组-orange.svg?logo=wechat)](https://img-1259210397.cos.ap-guangzhou.myqcloud.com/qrcode_for_gh_e6abc955318b_430.jpg) [![Weibo](https://img.shields.io/badge/WeiBo-SINA-red.svg?&logo=sina-weibo&logoColor=E6162D)](https://weibo.com/5786802205/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1) [![zhihu](https://img.shields.io/badge/ZhiHu-专栏-important.svg?&logo=zhihu&logoColor=ffffff&colorA=0084FF)](https://zhuanlan.zhihu.com/lengbandeng) [![blog](https://img.shields.io/badge/blog-诗-lightgrey.svg?&logo=hexo&logoColor=ffffff&colorA=2b2b2b)](https://leidichen.github.io/myblog/#/)
 
 阅读李笑来《人人都能用英语》以后，很受启发。原先我们往往受制于，不会讲，没人跟你讲，也没什么地方可以讲。以至于，对于英语处于一种：我们明明知道它很有用，却不知道怎么用。
 
